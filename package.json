@@ -11,8 +11,10 @@
   },
   "dependencies": {
     "bootstrap": "^5.0.1",
+    "dialogflow": "^1.2.0",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.1",
+    "uuid": "^8.3.2",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "yarn": "^1.22.10"
